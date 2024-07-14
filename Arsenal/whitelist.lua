@@ -1,4 +1,6 @@
-local whitelist = {""}
+local whitelist = {
+    "topraqk1"
+}
 
 local function whitelisted(playerName)
     for _, name in ipairs(whitelist) do
