@@ -1,6 +1,6 @@
 local whitelist = {
     "topraqk1",
-    "wrestonbest"
+    "wrestonmain"
 }
 
 local function whitelisted(playerName)
