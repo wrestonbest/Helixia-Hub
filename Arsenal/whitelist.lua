@@ -3,6 +3,7 @@ local whitelist = {
     "wrestonmain",
     "slmknknbriiben",
     "Ben_Muhammed17",
+    "muhammet3925", --1 day
 }
 
 local function whitelisted(playerName)
