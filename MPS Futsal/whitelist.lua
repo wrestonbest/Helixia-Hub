@@ -24,6 +24,7 @@ local whitelist = {
     "4xlisst",--lifetime
     "IUseArchLinuxx", --lifetime
     "GianluigiBuffon884", --lifetime
+    "Legend_dary124", --lifetime
     
 }
 
