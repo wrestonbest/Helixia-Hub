@@ -23,7 +23,8 @@ local whitelist = {
     "nofallaris",--lifetime
     "4xlisst",--lifetime
     "IUseArchLinuxx", --lifetime
-    "B1ack_Thund", --lifetime
+    "GianluigiBuffon884", --lifetime
+    
 }
 
 local function trim(s)
