@@ -26,8 +26,9 @@ local whitelist = {
     "GianluigiBuffon884", --lifetime
     "Baconrich234", --lifetime
     "baconnotnoob3421", --lifetime
-    "Legend_dary124", --1 month
+    "Legend_dary124", --1 month 20 agustos
     "Mierha_xDD", -- lifetime giveaway 
+    "kaan113azkral",--1 month 21 agustos
 }
 
 local function trim(s)
