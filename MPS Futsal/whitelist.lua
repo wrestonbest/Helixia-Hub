@@ -30,6 +30,7 @@ local whitelist = {
     "Mierha_xDD", -- lifetime giveaway 
     "kaan113azkral",--1 month 21 agustos
     "Calamity_ozx", --lifetime
+    "Ivanharisu",--lifetime
 }
 
 local function trim(s)
