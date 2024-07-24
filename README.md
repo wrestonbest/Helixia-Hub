@@ -18,3 +18,8 @@ Welcome to **Luminary HUB**! This hub contains a collection of exploit scripts f
 
 ### The Classic Soccer
 - **Auto Catch:** Automatically catch the ball to gain an advantage.
+
+### MPS 4-a Side
+- **Anti Lag:** Reduce in-game lag for smoother performance.
+- **Reach:** Extend the player's reach to make better plays.
+- **Fake Leg:** Create a fake leg to confuse opponents.
