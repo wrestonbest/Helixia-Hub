@@ -1,6 +1,6 @@
 # Luminary HUB
 
-Welcome to **Luminary HUB**! This repository contains a collection of exploit scripts for various Roblox games. Below is a list of available scripts and their functionalities.
+Welcome to **Luminary HUB**! This hub contains a collection of exploit scripts for various Roblox games. Below is a list of available scripts and their functionalities.
 
 ## Available Scripts
 
