@@ -1,5 +1,5 @@
 return function(username)
-    local whitelists = game:HttpGet("https://your_github_repo_url/whitelists")
+    local whitelists = game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-Hub/main/WhiteList/whitelists")
     local whitelistTable = {}
 
     for name in whitelists:gmatch("[^,]+") do
