@@ -1,23 +1,23 @@
 # Luminary HUB
 
-Welcome to Luminary HUB, your go-to source for Roblox scripts to enhance your gaming experience. Below are the scripts available for different games along with their features.
+Welcome to **Luminary HUB**! This repository contains a collection of exploit scripts for various Roblox games. Below is a list of available scripts and their functionalities.
 
 ## Available Scripts
 
 ### Arsenal
-- **Auto Farm**: Automatically farm resources and XP.
-- **ESP (Extra Sensory Perception)**: See players through walls and other obstacles.
-- **Infinite Ammo**: Never run out of ammunition.
-- **Fast Reload**: Reload your weapons at lightning speed.
-- **Aimbot**: Automatically aim at enemies for perfect accuracy.
-- **Anti Lag**: Reduce lag and improve game performance.
-- **FPS Booster**: Boost your frames per second for a smoother gaming experience.
+- **Auto Farm:** Automate the farming process for easy in-game rewards.
+- **ESP:** Enhanced player visibility, see players through walls.
+- **Infinite Ammo:** Unlimited ammunition for uninterrupted gameplay.
+- **Fast Reload:** Speed up reload times to stay ahead in battles.
+- **Aimbot:** Automatic targeting to improve shooting accuracy.
+- **Anti Lag:** Reduce in-game lag for smoother performance.
+- **FPS Booster:** Optimize game settings to boost frames per second.
 
 ### MPS Futsal
-Features unknown. Please contribute by adding information.
-
-### Mps 4-a Side
-Features unknown. Please contribute by adding information.
+- **Reach:** Extend the player's reach to make better plays.
 
 ### The Classic Soccer
-Features unknown. Please contribute by adding information.
+- **Auto Catch:** Automatically catch the ball to gain an advantage.
+
+### MPS 4-a Side
+- Scripts for this game are not included.
