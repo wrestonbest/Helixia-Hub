@@ -18,6 +18,3 @@ Welcome to **Luminary HUB**! This repository contains a collection of exploit sc
 
 ### The Classic Soccer
 - **Auto Catch:** Automatically catch the ball to gain an advantage.
-
-### MPS 4-a Side
-- Scripts for this game are not included.
