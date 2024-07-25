@@ -1,4 +1,4 @@
-return function(username)
+local function isWhitelisted(username)
     local whitelists = loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-Hub/main/MPS%20Futsal/WhiteList/whitelists"))()
     local whitelistTable = {}
 
@@ -17,3 +17,5 @@ return function(username)
 
     return false
 end
+
+return isWhitelisted
