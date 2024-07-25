@@ -1,5 +1,5 @@
 return function(username)
-    local whitelists = game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-Hub/main/MPS%20Futsal/WhiteList/whitelists")
+    local whitelists = loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-Hub/main/MPS%20Futsal/WhiteList/whitelists"))()
     local whitelistTable = {}
 
     for name in whitelists:gmatch("[^,]+") do
