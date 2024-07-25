@@ -1,9 +1,9 @@
 return function(username)
-    local whitelists = game:HttpGet("https://your_github_repo_url/whitelists")
+    local whitelists = game:HttpGet("")
     local whitelistTable = {}
 
-    for name in whitelists:gmatch("[^,\r\n]+") do
-        name = name:match("^%s*(.-)%s*$")  -- Trim leading and trailing spaces
+    for name in whitelists:gmatch("[^,]+") do
+        name = name:match("^%s*(.-)%s*$")
         if #name > 0 then
             table.insert(whitelistTable, name)
         end
