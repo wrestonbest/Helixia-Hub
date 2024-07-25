@@ -1,9 +1,11 @@
 local function isWhitelisted(username)
-    local whitelists = loadstring(game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-Hub/main/MPS%20Futsal/WhiteList/whitelists"))()
+    local whitelists = game:HttpGet("https://raw.githubusercontent.com/wrestonbest/Luminary-Hub/main/MPS%20Futsal/WhiteList/whitelists")
     local whitelistTable = {}
 
     for name in whitelists:gmatch("[^,]+") do
+        print("normal name: " .. name)
         name = name:match("^%s*(.-)%s*$")
+        print("matched name: " .. name)
         if #name > 0 then
             table.insert(whitelistTable, name)
         end
